@@ -1,0 +1,5 @@
+Filesystems are set up as a tree shape.
+
+Directories are branches
+files are leaves.
+
